@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.pyo
+
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+.cph/
+
+*.out
+*.exe
+*.class
+
+.DS_Store
