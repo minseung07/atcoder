@@ -6,8 +6,6 @@ __pycache__/
 .pytest_cache/
 .ruff_cache/
 
-.cph/
-
 *.out
 *.exe
 *.class
